@@ -1,5 +1,5 @@
 #Yash Electrical
-Yash Electrical Static Website This repository contains the source code for a static website designed for Yash Electrical, a fictitious electrical services company. The website is built using HTML, CSS, and JavaScript.
+Yash Electrical Static Website This repository contains the source code for a static website designed for Yash Electrical. The website is built using HTML, CSS, and JavaScript.
 
 Features:
 
